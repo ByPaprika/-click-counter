@@ -12,7 +12,7 @@ public class Count {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    private int count;
+    private Long count;
 
     public Long getId() {
         return id;
@@ -22,11 +22,11 @@ public class Count {
         this.id = id;
     }
 
-    public int getCount() {
+    public Long getCount() {
         return count;
     }
 
-    public void setCount(int count) {
+    public void setCount(Long count) {
         this.count = count;
     }
 }

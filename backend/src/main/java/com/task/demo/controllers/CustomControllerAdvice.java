@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 @ControllerAdvice
 public class CustomControllerAdvice {
 
-    @ExceptionHandler({ ActionWasBlockedException.class})
+    @ExceptionHandler({ActionWasBlockedException.class})
     public String handleActionWasBlockedException() {
         return "";
     }

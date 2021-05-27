@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.btn__container {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  align-items: center;
+  cursor: pointer;
+}
+
+.btn__container:hover > .btn {
+  background-color: rgb(110, 231, 183);
+  color: rgb(6, 95, 70);
+}
+
+.btn__label {
+  cursor: pointer;
+}
+
+.btn {
+  margin-top: 10px;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  background-color: rgb(167, 243, 208);
+  color: rgb(4, 120, 87);
+  display: inline-flex;
+  justify-content: center;
+  border-radius: 0.375rem;
+  border: none;
+  cursor: pointer;
+}

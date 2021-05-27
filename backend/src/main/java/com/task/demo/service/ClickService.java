@@ -17,13 +17,14 @@ public class ClickService implements IClickService {
         this.countRepository = countRepository;
     }
 
-    @Transactional
-    public synchronized void clickButton(Count booking) {
+    @Override
+    public synchronized Count clickButton(Count booking) {
         Count count = countRepository.findById(booking.getId())
                 .orElseThrow(() -> new ActionWasBlockedException("not found button id"));
 
         count.setCount(count.getCount() + 1L);
         countRepository.save(count);
+        return count;
     }
 
     @Override

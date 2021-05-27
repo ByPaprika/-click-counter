@@ -14,6 +14,7 @@ public class Count {
 
     private Long count;
 
+
     public Long getId() {
         return id;
     }

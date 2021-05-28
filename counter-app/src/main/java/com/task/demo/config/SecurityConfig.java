@@ -2,7 +2,6 @@ package com.task.demo.config;
 
 
 import org.springframework.context.annotation.Configuration;
-import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
@@ -18,7 +17,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http.authorizeRequests().antMatchers("/*").permitAll().antMatchers("/*")
                 .fullyAuthenticated().and().formLogin()
                 .and().csrf().disable();
-        http.csrf().disable();  }
+        http.csrf().disable();
+    }
 
 }
 

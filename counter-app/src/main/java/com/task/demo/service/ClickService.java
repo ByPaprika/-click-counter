@@ -6,8 +6,6 @@ import com.task.demo.repo.CountRepository;
 import com.task.demo.service.IService.IClickService;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
-
 @Service
 public class ClickService implements IClickService {
 

@@ -1,1 +1,1 @@
-# -click-counter
+# task-click-counter

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="353f0e5b-8038-43d0-b471-36289f8cb8c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/counter-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/controllers/CounterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/controllers/CustomControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/model/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/repo/CountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/java/com/task/demo/service/IService/IClickService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/controllers/CounterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/controllers/CustomControllerAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/exceptions/ActionWasBlockedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/model/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/repo/CountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/service/ClickService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/task/demo/service/IService/IClickService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/task/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/public/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/BtnCount.js" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/src/components/BtnCount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/counter-ui/src/static/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t8CLbfcDOZaWOM5GqFCfhU1J9j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose.yml" />
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication (1)">
+    <configuration name="DemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.task.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.task.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.task.counter.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.task.counter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="counter-app/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="counter-ui/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.counter-app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="removeVolumesOnComposeDown" value="true" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.scrum-app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="scrum-app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.counter-app/Dockerfile" />
+      <item itemvalue="Docker.docker-compose.yml.counter-app: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.scrum-app: Compose Deployment" />
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Application.DemoApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication (1)" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Docker.counter-app/Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml.scrum-app: Compose Deployment" />
+        <item itemvalue="Docker.counter-app/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353f0e5b-8038-43d0-b471-36289f8cb8c1" name="Default Changelist" comment="" />
+      <created>1622141274755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622141274755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Docker" timestamp="1622186583061">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Docker/0.0.1280.984@0.0.1280.984" timestamp="1622186583061" />
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622186677517">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1622186677517" />
+    <state x="349" y="30" key="#counter-app/Dockerfile" timestamp="1622186584807">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="30" key="#counter-app/Dockerfile/0.0.1280.984@0.0.1280.984" timestamp="1622186584807" />
+    <state x="349" y="202" key="#docker-compose.yml.scrum-app:_Compose_Deployment" timestamp="1622186368620">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="202" key="#docker-compose.yml.scrum-app:_Compose_Deployment/0.0.1280.984@0.0.1280.984" timestamp="1622186368620" />
+    <state x="478" y="360" key="DockerComposeFileDialog" timestamp="1622186669792">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="478" y="360" key="DockerComposeFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1622186669792" />
+    <state x="422" y="319" key="FileChooserDialogImpl" timestamp="1622186668528">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="422" y="319" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1622186668528" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1622188158166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1622188158166" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1622188158166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1622188158166" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1622188158165">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1622188158165" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1622188158166">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1622188158166" />
+  </component>
+</project>
